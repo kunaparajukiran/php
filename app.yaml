@@ -1,8 +1,8 @@
-application: helloworld
+application: 587187780734
 version: 1
 runtime: php
 api_version: 1
 
 handlers:
 - url: /.*
-  script: helloworld.php
+  script: gcm.php
